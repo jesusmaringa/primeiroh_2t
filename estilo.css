@@ -33,3 +33,20 @@ li a:hover {
    color: black;
    background: rgb(156, 228, 212);
 }
+#aguia {
+  width: 15%;
+}
+.caixaAguia {
+  position: absolute;
+  top: 45px;
+  left: 0;
+  width: 90%;
+  height: 155px;
+  background: rgb(170, 201, 211);
+  margin: 20px;
+  border-width: 20px;
+  border-color: blue;
+  border-style: solid;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
